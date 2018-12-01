@@ -22,6 +22,6 @@ Our way
  Head:#8292929
  Slideshow-gmright-217706
  
- Class-V.8-class.2.3
+ Clascs-V.8-class.2.3
  
  Cloudgmrightmovies_spotgraudspocustomerlive 
