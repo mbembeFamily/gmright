@@ -25,7 +25,7 @@
 "Gmright_setting_home-platform-7.9.¥"
 Loin=create account 
 
-AUTHOR ARCHIVES: RAYMERJACQUE
+AUTHOR ARCHIVES: GeorgeMakulu
 MAKULU CORE TEASER 3
 MakuluLinux Core Is on Schedule for a Mid December Release. To see the latest Features available here is the new teaser video :  
 
